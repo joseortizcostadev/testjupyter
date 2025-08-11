@@ -10,7 +10,7 @@ You can run these notebooks directly in your browser — **no installation requi
 
 ### ▶️ Option 1: Run with Google Colab (Recommended for Beginners)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/basic_sql_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joseortizcostadev/testjupyter/blob/main/basic_sql_notebook.ipynb)
 
 > You need a Google account, but no local setup required.
 
@@ -18,7 +18,7 @@ You can run these notebooks directly in your browser — **no installation requi
 
 ### 🔁 Option 2: Run with Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-username/your-repo-name/HEAD?labpath=basic_sql_notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joseortizcostadev/testjupyter/HEAD?labpath=basic_sql_notebook.ipynb)
 
 > Binder will launch a temporary JupyterLab session with all dependencies.
 
