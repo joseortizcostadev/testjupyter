@@ -20,6 +20,7 @@ You can run these notebooks directly in your browser — **no installation requi
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joseortizcostadev/testjupyter/HEAD?labpath=basic_sql_notebook.ipynb)
 
+
 > Binder will launch a temporary JupyterLab session with all dependencies.
 
 ---
